@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+env/
+
+# Byte-code files
+__pycache__/
+*.pyc
+
+# Logs and temporary files
+*.log
+*.tmp
+# macOS specific hidden file
+.DS_Store
