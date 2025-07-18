@@ -3,6 +3,9 @@
 ## 🎥 **VIDEO DEMONSTRATION**
 https://github.com/user-attachments/assets/118955fe-a9ba-4295-9549-1069830cca1a
 
+## 📄 **Terminal Output**
+<img width="1150" height="583" alt="Image" src="https://github.com/user-attachments/assets/10b4a51b-ab12-4c65-98ad-44a447ee4f94" />
+
 ## 🚀 **Project Overview** 
 
 This project demonstrates a robust end-to-end automation test for the SauceDemo e-commerce website, built using Python and Selenium WebDriver. 
